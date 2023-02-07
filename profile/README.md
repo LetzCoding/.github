@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 远方的朋友，你好 👋
+这里是LetzCoding，一个挥洒梦想与创作灵感的聚集地
 <!--
 
 **Here are some ideas to get you started:**
